@@ -1,7 +1,7 @@
 {
   "name": "epi-tinymce-ai-plugin",
   "version": "1.0.0",
-  "description": "AI Content Editor Plugin",
+  "description": "Add AI capabilities to the TinyMCE editor",
   "scripts": {
     "prepublishOnly": "npm run lint && npm run build",
     "lint": "tslint src/**/*.ts",
